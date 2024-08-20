@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16"
+   width="16"
+   id="svg2"
+   version="1.1"
+   sodipodi:docname="network-wireless-signal-good.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview245"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="35.125"
+     inkscape:cx="8.0142349"
+     inkscape:cy="8"
+     inkscape:window-width="1366"
+     inkscape:window-height="719"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     showguides="true" />
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <path
+     style="color:#000000;fill:#33a4ff;fill-opacity:1;stroke-width:1;-inkscape-stroke:none;paint-order:markers fill stroke"
+     d="m 8,10.786638 c -1.526063,-0.0021 -2.25693,0.935141 -2.25693,0.935141 L 8,14.2 c 0,0 2.254738,-2.481853 2.257,-2.478 0,0 -0.730937,-0.933212 -2.257,-0.935362 z"
+     id="path7820-3"
+     sodipodi:nodetypes="zcccz" />
+  <path
+     style="color:#000000;fill:#95a3ab;fill-opacity:0.45098;stroke-width:1;stroke-linejoin:round;-inkscape-stroke:none;paint-order:markers fill stroke"
+     d="M 8,2.2525137 C 2.9254254,2.277263 0,5.3867968 0,5.3867968 l 1.4307615,1.5723287 c 0,0 2.2484293,-2.5778782 6.5692385,-2.5742488 C 12.183947,4.3883967 14.569,6.959 14.569,6.959 l 1.431001,-1.572 c 0,0 -2.873703,-3.1594879 -8.000001,-3.1344863 z"
+     id="path38238"
+     sodipodi:nodetypes="sccsccs" />
+  <path
+     style="color:#000000;fill:#33a4ff;fill-opacity:1;stroke-width:1;stroke-linejoin:round;-inkscape-stroke:none;paint-order:markers fill stroke"
+     d="m 8,6.5239302 c -3.1914426,0 -5.2346921,1.9162643 -5.2346921,1.9162643 l 1.472726,1.6232495 c 0,0 1.8805321,-1.4172181 3.7619661,-1.4012061 2.065674,0.01758 3.762,1.4004161 3.762,1.4004161 L 13.235,8.44 c 0,0 -2.042128,-1.9160698 -5.235,-1.9160698 z"
+     id="path38244"
+     sodipodi:nodetypes="sccsccs" />
+</svg>
