@@ -5,7 +5,7 @@
    height="16"
    id="svg2457"
    sodipodi:docname="open-menu.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -31,7 +31,8 @@
      inkscape:window-x="473"
      inkscape:window-y="101"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg2457" />
+     inkscape:current-layer="svg2457"
+     showguides="true" />
   <metadata
      id="metadata23">
     <rdf:RDF>
@@ -45,58 +46,63 @@
   </metadata>
   <defs
      id="defs2459" />
-  <rect
-     style="opacity:0.35;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.500001"
-     id="rect4439"
-     width="12"
-     height="3"
-     x="2"
-     y="3"
-     rx="0.5"
-     ry="0.5" />
-  <rect
-     style="opacity:0.35;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.500001"
-     id="rect5347"
-     width="12"
-     height="3"
-     x="2"
-     y="7"
-     rx="0.5"
-     ry="0.5" />
-  <rect
-     style="opacity:0.35;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke-width:0.500001"
-     id="rect5351"
-     width="12"
-     height="3"
-     x="2"
-     y="11"
-     rx="0.5"
-     ry="0.5" />
-  <rect
-     style="fill:#fafafa;fill-opacity:1;fill-rule:evenodd;stroke-width:0.5"
-     id="rect4441"
-     width="10"
-     height="1"
-     x="3"
-     y="4"
-     rx="0.25"
-     ry="0.25" />
-  <rect
-     style="fill:#fafafa;fill-opacity:1;fill-rule:evenodd;stroke-width:0.5"
-     id="rect5349"
-     width="10"
-     height="1"
-     x="3"
-     y="7.9999995"
-     rx="0.25"
-     ry="0.25" />
-  <rect
-     style="fill:#fafafa;fill-opacity:1;fill-rule:evenodd;stroke-width:0.5"
-     id="rect5353"
-     width="10"
-     height="1"
-     x="3"
-     y="11.999999"
-     rx="0.25"
-     ry="0.25" />
+  <g
+     id="g2"
+     inkscape:label="g0"
+     transform="matrix(0.66733877,0,0,0.74004847,-0.009121,-0.81625289)"
+     style="display:inline">
+    <rect
+       style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke-width:0.500001"
+       id="rect849"
+       width="18"
+       height="4"
+       x="3.0152643"
+       y="5.2127376"
+       rx="0.5" />
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke-width:0.5"
+       id="rect3415"
+       width="15.999999"
+       height="2"
+       x="4.015265"
+       y="6.2127376"
+       rx="0.25"
+       ry="0.25" />
+    <rect
+       style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke-width:0.500001"
+       id="rect1137"
+       width="18"
+       height="4"
+       x="3.0145693"
+       y="10.61377"
+       rx="0.5"
+       ry="0.5" />
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke-width:0.5"
+       id="rect1139"
+       width="15.999999"
+       height="2"
+       x="4.0145698"
+       y="11.61377"
+       rx="0.25"
+       ry="0.25" />
+    <rect
+       style="fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke-width:0.500001"
+       id="rect1301"
+       width="18"
+       height="4"
+       x="3"
+       y="16"
+       rx="0.5"
+       ry="0.5" />
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;fill-rule:evenodd;stroke-width:0.5"
+       id="rect1303"
+       width="15.999999"
+       height="2"
+       x="4.0000005"
+       y="17"
+       rx="0.25"
+       ry="0.25" />
+  </g>
 </svg>

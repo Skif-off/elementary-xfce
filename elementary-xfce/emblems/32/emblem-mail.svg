@@ -5,7 +5,7 @@
    id="svg3067"
    version="1.1"
    sodipodi:docname="emblem-mail.svg"
-   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -23,7 +23,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="16"
      inkscape:cx="19.84375"
      inkscape:cy="22.15625"
@@ -150,6 +150,53 @@
        y2="12.701969"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.8571429,0,0,1.9000001,1.142857,0.2999977)" />
+    <radialGradient
+       cx="605.71429"
+       cy="486.64789"
+       r="117.14286"
+       fx="605.71429"
+       fy="486.64789"
+       id="radialGradient2722-303-187-273-5"
+       xlink:href="#linearGradient5060-6-252-476-367"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.06553443,0,0,0.02470588,-69.175497,10.577352)" />
+    <radialGradient
+       cx="605.71429"
+       cy="486.64789"
+       r="117.14286"
+       fx="605.71429"
+       fy="486.64789"
+       id="radialGradient2724-226-535-494-6"
+       xlink:href="#linearGradient5060-6-252-476-367"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.06553443,0,0,0.02470588,-21.829255,10.577352)" />
+    <linearGradient
+       x1="25.57654"
+       y1="15.000002"
+       x2="25.57654"
+       y2="44.00053"
+       id="linearGradient2446-2"
+       xlink:href="#linearGradient3333-314-917-262"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.90697644,0,0,0.9642857,2.2325575,-4.4464386)" />
+    <linearGradient
+       x1="23.928667"
+       y1="30.773148"
+       x2="23.928667"
+       y2="45.530704"
+       id="linearGradient2443-2"
+       xlink:href="#linearGradient5060-6-252-476-367"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.909299,0,0,0.93784934,2.1769448,-3.3795273)" />
+    <linearGradient
+       x1="23.903786"
+       y1="35.75"
+       x2="23.903786"
+       y2="16.00676"
+       id="linearGradient2440-7"
+       xlink:href="#linearGradient5060-6-252-476-367"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.909299,0,0,0.93784934,2.176945,-2.3478929)" />
   </defs>
   <metadata
      id="metadata3072">
@@ -189,8 +236,8 @@
      y="5.9999981"
      id="rect2396"
      style="display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient976);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.26;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
-     rx="1.5"
-     ry="1.5" />
+     rx="0"
+     ry="0" />
   <rect
      width="25.000002"
      height="18.000002"
@@ -198,8 +245,8 @@
      y="6.4999971"
      id="rect3331"
      style="display:inline;overflow:visible;visibility:visible;opacity:0.4;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient2446);stroke-width:0.999997;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none;enable-background:accumulate"
-     rx="1"
-     ry="1" />
+     rx="0"
+     ry="0" />
   <path
      d="M 12.553329,16.567681 3.4353609,24.530829 M 19.619041,16.552975 28.75014,24.530829"
      id="path3341"
@@ -207,12 +254,12 @@
   <path
      d="M 3.0843004,7.0986238 16.135465,18.963567 28.911796,7.0986238"
      id="path3493"
-     style="opacity:0.5;fill:none;fill-rule:evenodd;stroke:url(#linearGradient2440);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="display:inline;opacity:0.5;fill:none;fill-rule:evenodd;stroke:url(#linearGradient2440);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <rect
      width="27"
      height="20"
-     rx="2"
-     ry="2"
+     rx="0.60573637"
+     ry="0.60839826"
      x="2.5"
      y="5.4999981"
      id="rect414"

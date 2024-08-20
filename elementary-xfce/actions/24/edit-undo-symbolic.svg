@@ -5,7 +5,7 @@
    width="24"
    height="24"
    sodipodi:docname="edit-undo-symbolic.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -21,7 +21,7 @@
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     showgrid="false"
+     showgrid="true"
      inkscape:zoom="10.046809"
      inkscape:cx="-3.4339261"
      inkscape:cy="4.6781023"
@@ -30,7 +30,9 @@
      inkscape:window-x="55"
      inkscape:window-y="209"
      inkscape:window-maximized="0"
-     inkscape:current-layer="svg6" />
+     inkscape:current-layer="svg6"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata12">
     <rdf:RDF>
@@ -45,8 +47,9 @@
   <defs
      id="defs10" />
   <path
-     id="path873-5"
-     style="fill:#555761;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stop-color:#000000"
-     d="m 10.927609,4.7504315 c 0.595159,0 1.072876,0.461421 1.072876,1.035137 V 9 h 1.0155 c 4.63828,0 7.061871,3.569863 6.984029,7.255113 0,0 -0.0091,1.585019 -0.3,2.3021 C 19.552571,18.920617 19.456509,19.5 18.996187,19.5 18.610746,19.5 18.426453,18.946029 18.32227,18.557213 17.653837,16.062588 16.203302,14 13.420334,14 h -1.419849 v 3.214431 c 0,0.573714 -0.477717,1.035137 -1.072876,1.035137 -0.320768,0 -0.606793,-0.134223 -0.803309,-0.347741 L 4.2939142,12.208961 C 4.1122684,12.023493 4.0000858,11.775197 4.0000858,11.5 c 0,-0.275198 0.1121798,-0.523491 0.2938284,-0.70896 L 10.1243,5.0981725 c 0.196516,-0.213528 0.482541,-0.347741 0.803309,-0.347741 z"
-     sodipodi:nodetypes="sscscascscssccsccs" />
+     d="m 14.378061,20.581446 a 11.090604,11.090604 0 0 0 2.134981,-1.199359 C 22.463363,15.054352 19.302333,6.9326296 12.00195,6.9991908 V 3.1386406 L 3.2108508,9.4406068 12.00195,15.719964 V 11.95235 c 4.729614,-0.182101 6.687518,4.862735 2.609702,7.761287 -0.351645,0.249918 -0.751009,0.48728 -1.199357,0.708314 0,0 -7.3807552,3.225077 0.965766,0.159495 z"
+     fill="#666666"
+     overflow="visible"
+     style="color:#bebebe;fill:#555761;fill-opacity:1;stroke:none;stroke-width:1;marker:none"
+     id="path6" />
 </svg>

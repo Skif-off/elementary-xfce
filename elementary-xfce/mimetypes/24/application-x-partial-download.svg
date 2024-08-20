@@ -6,34 +6,12 @@
    version="1.0"
    viewBox="0 0 24 24.000027"
    width="24"
-   sodipodi:docname="application-x-partial-download.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <sodipodi:namedview
-     id="namedview36"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="28.416635"
-     inkscape:cx="10.152504"
-     inkscape:cy="12.633445"
-     inkscape:window-width="1360"
-     inkscape:window-height="893"
-     inkscape:window-x="140"
-     inkscape:window-y="465"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g153" />
   <metadata
      id="metadata155">
     <rdf:RDF>
@@ -156,7 +134,7 @@
   </defs>
   <g
      id="g153"
-     transform="translate(-40,-186)">
+     transform="translate(-39.999504,-185.99868)">
     <rect
        height="2"
        id="rect2879"
@@ -175,17 +153,11 @@
     <path
        d="m 43.49996,187.49996 c 3.895581,0 17.000059,0.001 17.000059,0.001 l 2.1e-5,20.99871 H 43.49996 v -21.00005 z"
        id="path4160-3-1"
-       style="display:inline;opacity:0.3;fill:none;stroke:#000000;stroke-width:0.99992186;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="display:inline;opacity:0.3;fill:none;stroke:#000000;stroke-width:0.999922;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        id="path10852"
-       d="m 51,196 v 1 h -1 v 2 h 4 v -2 h -1 v -1 z m 0,2 h 2 v 1 h -2 z"
-       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#68b723;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       sodipodi:nodetypes="cccccccccccccc" />
-    <path
-       id="path873-5-5"
-       style="font-variation-settings:normal;display:inline;vector-effect:none;fill:#68b723;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker:none;enable-background:new;stop-color:#000000"
-       d="m 47.75,199 c -0.41568,0 -0.75,0.34591 -0.75,0.77684 0,0.23226 0.09725,0.43936 0.251953,0.58166 l 4.224609,4.42875 c 0.13438,0.13152 0.314281,0.21275 0.513672,0.21275 0.199392,0 0.379292,-0.0813 0.513672,-0.21275 l 4.244141,-4.42875 C 56.902757,200.2162 57,200.0091 57,199.77684 57,199.34591 56.665682,199 56.25,199 Z"
-       sodipodi:nodetypes="csccsccscc" />
+       d="m 51.001166,196.54292 v 1 h -1 v 2 h -0.142578 -0.857422 -2 l 5,6.45898 5,-6.45898 h -1.142578 -0.857422 l -0.855469,0.002 v -0.002 h -0.144531 v -2 h -1 v -1 z m 0,2 h 2 v 1 h -2 z"
+       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#68b723;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
     <path
        d="m 43.5,207.99999 v 1.99998 c -0.64533,0.004 -1.56008,-0.44811 -1.56008,-1.00013 0,-0.55203 0.72013,-0.99985 1.56008,-0.99985 z"
        id="path7076"
@@ -197,12 +169,10 @@
   </g>
   <path
      id="rect851"
-     d="m 11,5 v 1 h 2 V 5 Z m 2,1 v 1 h 1 V 6 Z m 0,1 h -2 v 1 h 2 z M 11,7 V 6 h -1 v 1 z"
-     style="opacity:0.2;vector-effect:none;fill:#68b723;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1;marker:none"
-     sodipodi:nodetypes="cccccccccccccccccccc" />
+     d="m 11.001166,4.5429223 v 2 h 2 v -2 z m 2,2 v 1 h 1 v -1 z m 0,1 h -2 v 1 h 2 z m -2,0 v -1 h -1 v 1 z"
+     style="display:inline;opacity:0.2;vector-effect:none;fill:#68b723;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1;marker:none" />
   <path
      id="rect859"
-     d="m 10,7 v 1 h 1 V 7 Z m 1,1 v 1 h -1 v 2 h 1 v -1 h 2 1 V 7 h -1 v 1 z"
-     style="opacity:0.6;vector-effect:none;fill:#68b723;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1;marker:none"
-     sodipodi:nodetypes="ccccccccccccccccc" />
+     d="m 10.001166,7.5429223 v 1 h 1 v -1 z m 1,1 v 1 h -1 v 1.9999997 h 1 v -1 h 2 1 V 7.5429223 h -1 v 1 z"
+     style="display:inline;opacity:0.6;vector-effect:none;fill:#68b723;fill-opacity:1;stroke:none;stroke-width:2;stroke-opacity:1;marker:none" />
 </svg>
