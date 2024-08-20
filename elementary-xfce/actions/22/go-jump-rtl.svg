@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg2519"
+   height="22"
+   width="22"
+   version="1.0"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2521">
+    <linearGradient
+       id="linearGradient5113">
+      <stop
+         offset="0"
+         style="stop-color:#ffffff;stop-opacity:1"
+         id="stop5115" />
+      <stop
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0"
+         id="stop5117" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5105-262-943-861">
+      <stop
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1"
+         id="stop2487" />
+      <stop
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0"
+         id="stop2489" />
+    </linearGradient>
+    <linearGradient
+       gradientTransform="matrix(-0.55175739,0,0,0.54902317,54.25248,-4.1833305)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient5113"
+       id="linearGradient5862"
+       y2="58.047787"
+       x2="105.32369"
+       y1="2.047786"
+       x1="58.748795" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-3"
+       id="linearGradient3169-9"
+       y2="37"
+       x2="25"
+       y1="9"
+       x1="25"
+       gradientTransform="matrix(-0.5492096,0,0,0.54902317,24.034236,-2.5100232)" />
+    <linearGradient
+       id="linearGradient2867-449-88-871-390-598-476-591-434-148-57-177-3">
+      <stop
+         offset="0"
+         style="stop-color:#8cd5ff;stop-opacity:1"
+         id="stop3750-6" />
+      <stop
+         offset="0.26238"
+         style="stop-color:#64baff;stop-opacity:1"
+         id="stop3752-7" />
+      <stop
+         offset="0.704952"
+         style="stop-color:#3689e6;stop-opacity:1"
+         id="stop3754-5" />
+      <stop
+         offset="1"
+         style="stop-color:#0d52bf;stop-opacity:1"
+         id="stop3756-3" />
+    </linearGradient>
+    <radialGradient
+       gradientTransform="matrix(-1.3623805,0,0,0.3745281,26.729195,12.04866)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#linearGradient5105-262-943-861"
+       id="radialGradient5855-8"
+       fy="19.03125"
+       fx="11.25"
+       r="8.0625"
+       cy="19.03125"
+       cx="11.25" />
+  </defs>
+  <metadata
+     id="metadata2524">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="m 0.41822415,19.176389 a 10.984192,3.019631 0 1 0 21.96838385,0 10.984192,3.019631 0 1 0 -21.96838385,0 z"
+     id="path4346-2"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.162921;fill:url(#radialGradient5855-8);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.46103;marker:none" />
+  <path
+     d="M 0.69282915,11.504057 7.3027032,19.176392 13.87945,11.504057 H 10.53378 C 9.9499102,4.6850714 17.168082,2.4576894 20.494185,10.743715 19.062694,-1.0157221 4.0803192,-0.99121401 3.9952762,11.504057 Z"
+     id="path4972-9"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient3169-9);fill-opacity:1;fill-rule:nonzero;stroke:#0d52bf;stroke-width:1.00001;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.498039;marker:none" />
+  <path
+     d="m 2.8701472,12.513735 4.435643,5.095496 4.3965848,-5.096239 -2.0439698,0.0027 C 8.4889662,6.1138551 13.502098,2.8554882 16.918639,5.054979 13.974685,1.8441606 4.8132392,1.3094029 4.9910612,12.516163 Z"
+     id="path4980-5"
+     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.354;fill:none;stroke:url(#linearGradient5862);stroke-width:1.00001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+</svg>
