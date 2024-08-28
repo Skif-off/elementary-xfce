@@ -17,10 +17,10 @@
        id="linearGradient10270-0"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.89189031,0,0,0.94046961,3.12066,5.36987)"
-       x1="11.350123"
-       y1="0.66696572"
-       x2="11.350123"
-       y2="8.1721792" />
+       x1="11.667268"
+       y1="0.66284746"
+       x2="11.663198"
+       y2="8.095994" />
     <linearGradient
        id="linearGradient3454-2-5-0-3-8">
       <stop
@@ -140,23 +140,23 @@
        id="rect4170-0" />
     <path
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.8;fill:url(#linearGradient3018);fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="M 1.78125,1 C 1.3743986,1 1,1.3431486 1,1.75 V 2 H 0.78174579 C 0.37489441,2 0,2.3142812 0,2.7211326 V 4 H 1 V 3 H 2 V 2 H 7.9940798 L 8,2.9952242 C 8,2.9952242 12.666688,3 15,3 L 15.0012,3.9992056 16.001687,4 V 2.71875 C 16.001687,2.3118986 15.649118,2 15.242267,2 H 9 V 1.7454994 C 9,1.338648 8.6509312,1 8.2440798,1 Z"
+       d="M 1.78125,1 C 1.3743986,1 1,1.3431486 1,1.75 V 2 H 0.78174579 C 0.37489441,2 0,2.3142812 0,2.7211326 V 4 H 1 V 3 H 2 V 2 h 6 v 1 h 7 v 1 h 1 V 2.71875 C 16,2.3118986 15.649118,2 15.242267,2 H 9 V 1.7454994 C 9,1.338648 8.6509312,1 8.2440798,1 Z"
        id="rect4170" />
     <path
        d="M 15.5,4.5 V 14.500011 L 0.5,14.5 V 4.500008 Z"
        id="rect3086"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient10262-3);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
     <path
-       d="M 0,4 H 16 V 15 C 16,15 0,15 0,14.9962 Z"
+       d="M 0,4 H 16 V 15 H 0 Z"
        id="rect3086-1"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.4;fill:url(#linearGradient10268-4);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
     <path
-       d="m 1.5030001,5.4657689 12.9841779,0.018254 0.01277,8.0150501 -13.0007964,-0.0048 z"
+       d="m 1.5,5.5 h 13 l -5.2e-5,8 H 1.5 Z"
        id="rect3086-9"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;fill:none;stroke:url(#linearGradient10270-0);stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
     <path
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
-       d="M -0.00158143,3.9961224 0,14.46875 C 2.7608953e-5,14.744881 0.22386906,14.999972 0.5,15 h 15 c 0.29621,0.0061 0.498325,-0.275071 0.5,-0.559101 V 4 Z M 1,5 h 14 v 9 H 1 Z"
+       d="m 0,4 v 10.5 c 2.7608953e-5,0.276131 0.22386906,0.499972 0.5,0.5 h 15 c 0.29621,0.0061 0.498325,-0.21597 0.5,-0.5 V 4 Z m 1,1 h 14 v 9 H 1 Z"
        id="rect3086-0" />
   </g>
 </svg>
