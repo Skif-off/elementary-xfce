@@ -92,22 +92,18 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     id="layer1"
-     style="display:inline">
-    <path
-       d="m 3,1 c 2.2915074,0 9.999988,8.904e-4 9.999988,8.904e-4 L 13,15 C 13,15 6.3333332,15 3,15 3,10.333334 3,5.6666664 3,1 Z"
-       id="path4160"
-       style="display:inline;fill:url(#linearGradient3806);fill-opacity:1;stroke:none" />
-    <path
-       d="M 12.5,14.5 H 3.4999999 V 1.5 H 12.5 Z"
-       id="rect6741-1"
-       style="display:inline;fill:none;stroke:url(#linearGradient3988);stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <path
-       d="m 2.4999621,0.49997396 c 2.5206756,0 11.0000629,9.54e-4 11.0000629,9.54e-4 l 1.3e-5,14.99909804 c 0,0 -7.3333841,0 -11.000076,0 0,-5.000017 0,-10.000035 10e-8,-15.00005204 z"
-       id="path4160-8"
-       style="display:inline;fill:none;stroke:url(#linearGradient3019);stroke-width:0.999922;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-  </g>
+  <path
+     d="m 3,1 c 2.2915074,0 9.999988,8.904e-4 9.999988,8.904e-4 L 13,15 C 13,15 6.3333332,15 3,15 3,10.333334 3,5.6666664 3,1 Z"
+     id="path4160"
+     style="display:inline;fill:url(#linearGradient3806);fill-opacity:1;stroke:none" />
+  <path
+     d="M 12.5,14.5 H 3.4999999 V 1.5 H 12.5 Z"
+     id="rect6741-1"
+     style="display:inline;fill:none;stroke:url(#linearGradient3988);stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <path
+     d="m 2.4999621,0.49997396 c 2.5206756,0 11.0000629,9.54e-4 11.0000629,9.54e-4 l 1.3e-5,14.99909804 c 0,0 -7.3333841,0 -11.000076,0 0,-5.000017 0,-10.000035 10e-8,-15.00005204 z"
+     id="path4160-8"
+     style="display:inline;fill:none;stroke:url(#linearGradient3019);stroke-width:0.999922;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <g
      id="g13-6"
      transform="matrix(0.20289951,0,0,-0.20494993,-4.2602968,21.147642)"
@@ -135,7 +131,7 @@
        id="path7" />
     <g
        id="g2-6"
-       style="display:inline;stroke-width:9.80766;stroke-dasharray:none">
+       style="display:none;stroke-width:9.80766;stroke-dasharray:none">
       <path
          style="fill:#3689e6;fill-opacity:1;stroke:none;stroke-width:4.90387;stroke-dasharray:none"
          d="m 35.782807,103.18441 c 2.520325,0.006 4.932741,-2.03744 4.928458,-4.879225 -0.0042,-2.841786 -2.241723,-4.872858 -4.928458,-4.879229 -2.686735,-0.0064 -4.951533,2.038039 -4.928458,4.879229 0.02304,2.841195 2.408133,4.872935 4.928458,4.879225 z"
