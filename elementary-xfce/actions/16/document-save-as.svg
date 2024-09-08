@@ -76,7 +76,7 @@
        x2="11.703956"
        y1="19.198923"
        x1="11.703956"
-       gradientTransform="matrix(0.64707876,0,0,0.65120188,0.24472044,-1.3264045)"
+       gradientTransform="matrix(0.64707876,0,0,0.65120188,0.24472044,-0.32640448)"
        gradientUnits="userSpaceOnUse"
        id="linearGradient3020"
        xlink:href="#linearGradient4299-652-6" />
@@ -232,10 +232,10 @@
   </g>
   <path
      style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient3974);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient3982);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
-     d="m 6.5,0.5 0,4.0036641 -3,-2.243e-4 4.5,5.1 4.5,-5.1 -3,2.243e-4 L 9.5,0.5 Z"
+     d="M 6.5,0.5 V 5.5032243 L 3.5,5.503 l 4.5,5.1 4.5,-5.1 -3,2.243e-4 V 0.5 Z"
      id="path3870" />
   <path
-     d="m 6.8972564,2.8858592 c -0.386083,0.072967 -0.592869,0.4796142 -0.545973,0.8485878 v 1.3116127 c -0.37457,0.0239 -2.447283,-0.09532 -2.73833,0.214177 -0.301839,0.294858 -0.228972,0.802358 0.07788,1.062239 L 7.4001953,10.429006 C 7.7792632,10.701108 8.2198082,10.663509 8.6,10.428949 l 3.823483,-4.2782443 c 0.332778,-0.430544 -0.0272,-1.129816 -0.56859,-1.104645 H 9.6678544 c -0.0029,-0.6609178 0.0058,-0.8776005 -0.0045,-1.5382818 -0.03348,-0.4132639 -0.451169,-0.6745403 -0.838781,-0.6219187 -1.073693,3.13e-5 -0.854002,-4.24e-5 -1.927387,0 z"
+     d="m 6.8972564,3.8858592 c -0.386083,0.072967 -0.592869,0.4796142 -0.545973,0.8485878 v 1.3116127 c -0.37457,0.0239 -2.447283,-0.09532 -2.73833,0.214177 -0.301839,0.294858 -0.228972,0.802358 0.07788,1.062239 L 7.4001953,11.429006 C 7.7792632,11.701108 8.2198082,11.663509 8.6,11.428949 l 3.823483,-4.2782443 c 0.332778,-0.430544 -0.0272,-1.129816 -0.56859,-1.104645 H 9.6678544 c -0.0029,-0.6609178 0.0058,-0.8776005 -0.0045,-1.5382818 -0.03348,-0.4132639 -0.451169,-0.6745403 -0.838781,-0.6219187 -1.073693,3.13e-5 -0.854002,-4.24e-5 -1.927387,0 z"
      id="path3524"
      style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.6;fill:none;stroke:url(#linearGradient3020);stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
 </svg>

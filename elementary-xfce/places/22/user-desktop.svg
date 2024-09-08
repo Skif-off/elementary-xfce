@@ -79,7 +79,7 @@
        xlink:href="#linearGradient2446-733-45-9"
        id="linearGradient2419"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.3802462,0,0,0.329847,-1.2543548,0.3664358)"
+       gradientTransform="matrix(0.38026035,0,0,0.329847,-1.2544201,0.3664358)"
        x1="33.579403"
        y1="5.7086449"
        x2="33.579403"
@@ -88,7 +88,7 @@
        xlink:href="#linearGradient3958-7"
        id="linearGradient2421"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.4666493,0,0,0.5000537,-0.1999749,-1.2507234)"
+       gradientTransform="matrix(0.46666666,0,0,0.5000537,-0.20000094,-1.2507234)"
        x1="16.91585"
        y1="7.0006418"
        x2="16.91585"
@@ -172,9 +172,9 @@
      height="1"
      width="20" />
   <path
-     style="fill:url(#linearGradient2419);fill-opacity:1.0;fill-rule:evenodd;stroke:url(#linearGradient2421);stroke-width:0.99999987999999995;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:inline;overflow:visible"
+     style="display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient2419);fill-opacity:1;fill-rule:evenodd;stroke:url(#linearGradient2421);stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
      id="rect2311"
-     d="M 1.8999478,2.4999998 C 1.8999478,2.4999998 20.256173,2.5042948 20.256173,2.5042948 C 20.986443,2.5042948 21.499219,3.1349549 21.499219,3.8328263 C 21.499219,3.8328263 21.499219,5.4999999 21.499219,5.4999999 C 21.499219,5.4999999 0.49999995,5.4999999 0.49999995,5.4999999 C 0.49999995,5.4999999 0.49999995,3.8328263 0.49999995,3.8328263 C 0.49999995,3.0889863 1.0640786,2.4999998 1.8999478,2.4999998 z" />
+     d="M 1.8999999,2.4999998 20.1,2.5 c 0.730297,0 1.4,0.6349499 1.4,1.3328213 V 5.4999949 H 0.49999995 V 3.8328213 c 0,-0.74384 0.56409965,-1.3328265 1.39999995,-1.3328265 z" />
   <rect
      style="opacity:0.4;fill:none;stroke:url(#linearGradient2427);stroke-width:1.00213313;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="rect2232"

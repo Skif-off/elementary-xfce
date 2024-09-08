@@ -23,7 +23,7 @@
          style="stop-color:#ffffff;stop-opacity:0.23529412"
          id="stop3458-39-80-3-5-5-8-4" />
       <stop
-         offset="0.99001008"
+         offset="0.99381"
          style="stop-color:#ffffff;stop-opacity:0.15686275"
          id="stop3460-7-0-2-4-2-7-8" />
       <stop
@@ -132,9 +132,9 @@
        gradientTransform="matrix(0.4666607,0,0,0.46428558,0.83644822,-8.1607121)" />
     <linearGradient
        x1="27.026815"
-       y1="11.3842"
-       x2="26.978802"
-       y2="21.354342"
+       y1="11.483589"
+       x2="27.015316"
+       y2="22.59568"
        id="linearGradient4440-9-5"
        xlink:href="#linearGradient3454-2-5-0-3-4-1-5"
        gradientUnits="userSpaceOnUse"

@@ -21,11 +21,11 @@
       <stop
          id="stop2"
          style="stop-color:#ffffff;stop-opacity:0.23529412"
-         offset="0.01900261" />
+         offset="0.00402156" />
       <stop
          id="stop3"
          style="stop-color:#ffffff;stop-opacity:0.15686275"
-         offset="0.99001008" />
+         offset="0.99586177" />
       <stop
          id="stop4"
          style="stop-color:#ffffff;stop-opacity:0.39215687"
@@ -195,10 +195,10 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       x1="26.939087"
-       y1="7.2826319"
-       x2="26.919615"
-       y2="22.603146"
+       x1="27.130005"
+       y1="7.3738537"
+       x2="27.113173"
+       y2="24.031303"
        id="linearGradient4440-9-5"
        xlink:href="#linearGradient4"
        gradientUnits="userSpaceOnUse"

@@ -263,59 +263,54 @@
   <g
      id="layer1">
     <g
-       style="display:inline"
-       id="g2036"
-       transform="matrix(0.6999997,0,0,0.3333336,-0.8000003,15.33333)">
-      <g
-         style="opacity:0.4"
-         id="g3712"
-         transform="matrix(1.052632,0,0,1.285713,-1.263158,-13.42854)">
-        <rect
-           style="fill:url(#radialGradient3163);fill-opacity:1;stroke:none"
-           id="rect2801"
-           y="40"
-           x="38"
-           height="7"
-           width="5" />
-        <rect
-           style="fill:url(#radialGradient3165);fill-opacity:1;stroke:none"
-           id="rect3696"
-           transform="scale(-1,-1)"
-           y="-47"
-           x="-10"
-           height="7"
-           width="5" />
-        <rect
-           style="fill:url(#linearGradient3167);fill-opacity:1;stroke:none"
-           id="rect3700"
-           y="40"
-           x="10"
-           height="7.0000005"
-           width="28" />
-      </g>
+       style="display:inline;opacity:0.4"
+       id="g3712"
+       transform="matrix(0.73684208,0,0,0.42857134,-1.6842105,10.857146)">
+      <rect
+         style="fill:url(#radialGradient3163);fill-opacity:1;stroke:none"
+         id="rect2801"
+         y="40"
+         x="38"
+         height="7"
+         width="5" />
+      <rect
+         style="fill:url(#radialGradient3165);fill-opacity:1;stroke:none"
+         id="rect3696"
+         transform="scale(-1)"
+         y="-47"
+         x="-10"
+         height="7"
+         width="5" />
+      <rect
+         style="fill:url(#linearGradient3167);fill-opacity:1;stroke:none"
+         id="rect3700"
+         y="40"
+         x="10"
+         height="7.0000005"
+         width="28" />
     </g>
     <rect
-       style="color:#000000;fill:url(#radialGradient3195);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient3197);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient3195);fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient3197);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
        id="rect5505"
        y="4.5"
        x="3.5"
-       ry="2"
-       rx="2"
+       ry="1.2697113"
+       rx="1.2844942"
        height="25"
        width="25" />
     <rect
-       style="opacity:0.5;fill:none;stroke:url(#linearGradient3192);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       style="opacity:0.5;fill:none;stroke:url(#linearGradient3192);stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect6741-7"
        y="5.5"
        x="4.5"
-       ry="1"
-       rx="1"
+       ry="0.28534454"
+       rx="0.27654353"
        height="23"
        width="23" />
     <path
-       style="opacity:0.2;fill:url(#linearGradient3189);fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="display:inline;opacity:0.2;fill:url(#linearGradient3189);fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="path3333"
-       d="M 5.3578979,5 C 4.9289359,5 4,5.5702913 4,6.125 L 4.0079806,20 C 4.6984029,19.984887 27.475954,14.470682 28,14.205444 L 28,6.125 C 28,5.7009978 26.957334,5 26.585897,5 z" />
+       d="M 4.8,5 C 4.4057432,5 4.0074368,5.2787751 4,5.792 L 4.0079806,20 C 4.6984029,19.984887 27.475954,14.470682 28,14.205444 V 5.7924441 C 28,5.374531 27.68646,5 27.2,5 Z" />
     <rect
        style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.05;fill:url(#linearGradient3370-4);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.61111;marker:none;enable-background:accumulate"
        id="rect3038-4-1-1"

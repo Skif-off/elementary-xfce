@@ -172,10 +172,10 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       x1="27.103127"
-       y1="10.027081"
-       x2="27.115664"
-       y2="22.597334"
+       x1="27.132355"
+       y1="10.155139"
+       x2="27.134623"
+       y2="24.024694"
        id="linearGradient4440-9-5"
        xlink:href="#linearGradient3454-2-5-0-3-4-1"
        gradientUnits="userSpaceOnUse"
@@ -189,11 +189,11 @@
       <stop
          id="stop3458-39-80-3-5-5-8"
          style="stop-color:#ffffff;stop-opacity:0.23529412"
-         offset="0.03205719" />
+         offset="0.0034947" />
       <stop
          id="stop3460-7-0-2-4-2-7"
          style="stop-color:#ffffff;stop-opacity:0.15686275"
-         offset="0.99001008" />
+         offset="0.99328631" />
       <stop
          id="stop3462-0-9-8-7-2-3"
          style="stop-color:#ffffff;stop-opacity:0.39215687"

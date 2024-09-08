@@ -19,7 +19,7 @@
          style="stop-color:#ffffff;stop-opacity:1"
          id="stop3456-4-9-38-1-8-8" />
       <stop
-         offset="0.0097359"
+         offset="0.00238262"
          style="stop-color:#ffffff;stop-opacity:0.23529412"
          id="stop3458-39-80-3-5-5-8" />
       <stop
@@ -205,10 +205,10 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.4666607,0,0,0.46428558,0.83644822,-8.1607121)" />
     <linearGradient
-       x1="27.581264"
-       y1="7.2104435"
-       x2="27.520594"
-       y2="21.327726"
+       x1="27.567362"
+       y1="7.3950968"
+       x2="27.572046"
+       y2="22.599424"
        id="linearGradient4440-9-5"
        xlink:href="#linearGradient3454-2-5-0-3-4-1"
        gradientUnits="userSpaceOnUse"
@@ -276,7 +276,8 @@
   </g>
   <g
      id="g4474"
-     transform="translate(-1.992714,-2.007286)">
+     transform="translate(-1.992714,-2.007286)"
+     style="display:inline">
     <path
        d="m 16.487446,16.507295 0.01054,-3 h 3.994732 v 3 h 3 v 4 h -3 v 2.999991 h -4 v -2.999991 h -3 v -4 z"
        id="path2262"

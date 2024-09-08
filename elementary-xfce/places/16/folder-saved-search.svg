@@ -14,9 +14,9 @@
      id="defs7991">
     <linearGradient
        x1="11.325727"
-       y1="0.6237275"
-       x2="11.350123"
-       y2="8.1598244"
+       y1="0.66958874"
+       x2="11.32509"
+       y2="9.2192173"
        id="linearGradient10270-0-0"
        xlink:href="#linearGradient3454-2-5-0-3-8-7"
        gradientUnits="userSpaceOnUse"
@@ -34,7 +34,7 @@
       <stop
          id="stop3460-7-0-2-4-4-4"
          style="stop-color:#ffffff;stop-opacity:0.15686275"
-         offset="0.99001008" />
+         offset="0.99490589" />
       <stop
          id="stop3462-0-9-8-7-8-46"
          style="stop-color:#ffffff;stop-opacity:0.39215687"
@@ -163,8 +163,8 @@
        id="path3575-5-8-4-7-6"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#382a72;fill-opacity:0.552163;fill-rule:nonzero;stroke:none;stroke-width:1.7;marker:none;enable-background:accumulate" />
     <path
-       d="m 0.5,4.5 h 15 v 10 h -15 z"
-       id="rect3086-8-1"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate" />
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;enable-background:accumulate"
+       d="m 0,4 v 10.5 c 2.76e-5,0.276131 0.2238691,0.499972 0.5,0.5 h 15 c 0.29621,0.0061 0.498325,-0.21597 0.5,-0.5 V 4 Z m 1,1 h 14 v 9 H 1 Z"
+       id="rect3086-0" />
   </g>
 </svg>

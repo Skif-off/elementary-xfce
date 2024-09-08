@@ -13,6 +13,25 @@
   <defs
      id="defs4">
     <linearGradient
+       id="linearGradient6">
+      <stop
+         id="stop1"
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop2"
+         style="stop-color:#ffffff;stop-opacity:0.23529412"
+         offset="0.01077464" />
+      <stop
+         id="stop3"
+         style="stop-color:#ffffff;stop-opacity:0.15686275"
+         offset="0.99001008" />
+      <stop
+         id="stop4"
+         style="stop-color:#ffffff;stop-opacity:0.39215687"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
        y2="2.0612748"
        x2="-51.786404"
        y1="53.514328"
@@ -123,14 +142,14 @@
        x2="76.041"
        y2="35.430561" />
     <linearGradient
-       xlink:href="#linearGradient3454-2-5-0-3-8"
+       xlink:href="#linearGradient6"
        id="linearGradient10270-0-7"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.89189031,0,0,0.94046961,3.12066,5.36987)"
-       x1="11.667268"
-       y1="0.66284746"
-       x2="11.663198"
-       y2="8.095994" />
+       x1="11.648971"
+       y1="0.62501389"
+       x2="11.652187"
+       y2="9.1791382" />
     <linearGradient
        xlink:href="#linearGradient4346"
        id="linearGradient1"
@@ -172,10 +191,10 @@
        id="linearGradient5"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.89189031,0,0,0.94046961,3.12066,5.36987)"
-       x1="11.667268"
-       y1="0.66284746"
-       x2="11.663198"
-       y2="8.095994" />
+       x1="11.722157"
+       y1="0.61652064"
+       x2="11.644902"
+       y2="9.1476126" />
   </defs>
   <metadata
      id="metadata7">
@@ -218,7 +237,8 @@
   </g>
   <g
      id="layer1"
-     transform="translate(6,7)">
+     transform="translate(6,7)"
+     style="display:inline">
     <path
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient1);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.999922;marker:none;enable-background:accumulate"
        d="M 2,2 V 3 H 1 V 7 H 15 V 3 H 8 V 2 Z"
