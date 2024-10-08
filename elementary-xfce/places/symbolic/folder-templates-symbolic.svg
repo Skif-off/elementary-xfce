@@ -4,7 +4,6 @@
    id="svg2"
    width="16"
    height="16"
-   viewBox="0 0 16 16"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -23,10 +22,15 @@
   </metadata>
   <defs
      id="defs10" />
-  <path
-     id="path6"
-     style="color:#000000;font-weight:400;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-transform:none;overflow:visible;fill:#666666;stroke-width:1.02911;marker:none"
-     overflow="visible"
-     font-weight="400"
-     d="m 15.571174,13.991339 c -1.03e-4,1.029106 -9.26e-4,1.030752 -9.26e-4,1.030752 L 1.0995849,15.0118 15.572717,0.60279115 Z M 12.484578,7.7591181 8.3026024,11.933128 h 4.1812556 z" />
+  <g
+     id="g4"
+     transform="matrix(-1,0,0,1,1169.063,315)"
+     style="fill:#666666;fill-opacity:1">
+    <path
+       id="path6"
+       style="color:#000000;font-weight:400;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-transform:none;overflow:visible;fill:#666666;marker:none;fill-opacity:1"
+       overflow="visible"
+       font-weight="400"
+       d="m 1153.063,-301 h 16 l -16,-12 z m 3,-6 4,3 h -4 z" />
+  </g>
 </svg>
