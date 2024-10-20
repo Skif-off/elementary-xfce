@@ -4,34 +4,12 @@
    height="24"
    width="24"
    version="1.1"
-   sodipodi:docname="media-playback-stop.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <sodipodi:namedview
-     id="namedview33"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="5.6568543"
-     inkscape:cx="22.097087"
-     inkscape:cy="17.147339"
-     inkscape:window-width="1396"
-     inkscape:window-height="896"
-     inkscape:window-x="522"
-     inkscape:window-y="42"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg4505" />
   <defs
      id="defs4507">
     <linearGradient
@@ -52,7 +30,7 @@
          style="stop-color:#ffffff;stop-opacity:1"
          id="stop956" />
       <stop
-         offset="0.00000002"
+         offset="0.00000001"
          style="stop-color:#ffffff;stop-opacity:0.23529412"
          id="stop958" />
       <stop
@@ -65,7 +43,6 @@
          id="stop962" />
     </linearGradient>
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient1793"
        id="linearGradient62852"
        x1="8.8597097"
@@ -73,15 +50,14 @@
        x2="39.177452"
        y2="25"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.48717966,0,0,0.48717952,0.3076891,-24.179493)" />
+       gradientTransform="matrix(0.43589779,0,0,0.43589755,1.5384563,-22.897443)" />
     <linearGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient964"
        id="linearGradient1216"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.67428061,0,0,0.71367175,9.254544,-7.5617903)"
-       x1="8.9891691"
-       y1="16.206736"
+       gradientTransform="matrix(0.59495348,0,0,0.62971041,9.5775388,-5.2604039)"
+       x1="9.003973"
+       y1="16.287169"
        x2="8.9891691"
        y2="38.614567" />
   </defs>
@@ -97,22 +73,22 @@
     </rdf:RDF>
   </metadata>
   <rect
-     style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient62852);fill-opacity:1;stroke:#7a0000;stroke-width:0.999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5;-inkscape-stroke:none;marker:none;paint-order:normal;stop-color:#000000"
+     style="font-variation-settings:normal;vector-effect:none;fill:url(#linearGradient62852);fill-opacity:1;stroke:#7a0000;stroke-width:0.999992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.5;-inkscape-stroke:none;marker:none;paint-order:normal;stop-color:#000000"
      id="rect874"
-     width="19"
-     height="19.000002"
-     x="2.4999971"
-     y="-21.5"
-     rx="1.25"
-     ry="1.25"
+     width="17.000008"
+     height="17.000006"
+     x="3.4999959"
+     y="-20.500002"
+     rx="0.50158143"
+     ry="0.50255543"
      transform="rotate(90)" />
   <rect
-     style="font-variation-settings:normal;opacity:0.5;vector-effect:none;fill:none;fill-opacity:1;stroke:url(#linearGradient1216);stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker:none;paint-order:markers stroke fill;stop-color:#000000"
+     style="font-variation-settings:normal;opacity:0.5;vector-effect:none;fill:none;fill-opacity:1;stroke:url(#linearGradient1216);stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;marker:none;paint-order:markers stroke fill;stop-color:#000000"
      id="rect1113"
-     width="17"
-     height="17"
-     x="3.5"
-     y="3.5"
-     rx="0.25"
-     ry="0.25" />
+     width="15"
+     height="15.000001"
+     x="4.5"
+     y="4.5"
+     rx="0"
+     ry="0" />
 </svg>
