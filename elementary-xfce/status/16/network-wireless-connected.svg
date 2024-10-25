@@ -4,35 +4,11 @@
    width="16"
    id="svg2"
    version="1.1"
-   sodipodi:docname="network-wireless-connected.svg"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <sodipodi:namedview
-     id="namedview245"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showgrid="true"
-     inkscape:zoom="35.125"
-     inkscape:cx="7.9857651"
-     inkscape:cy="8"
-     inkscape:window-width="1366"
-     inkscape:window-height="719"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2"
-     showguides="true" />
   <metadata
      id="metadata14">
     <rdf:RDF>
@@ -46,15 +22,6 @@
   </metadata>
   <defs
      id="defs12">
-    <inkscape:path-effect
-       effect="powerclip"
-       id="path-effect3156"
-       is_visible="true"
-       lpeversion="1"
-       inverse="true"
-       flatten="false"
-       hide_clip="false"
-       message="Use fill-rule evenodd on &lt;b&gt;fill and stroke&lt;/b&gt; dialog if no flatten result after convert clip to paths." />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath1715">
@@ -74,18 +41,13 @@
      overflow="visible"
      style="display:inline;fill:#33a4ff;fill-opacity:1;stroke-width:1;marker:none"
      id="path2-3"
-     fill="#666666"
-     sodipodi:nodetypes="scccsscccs"
-     inkscape:label="path6-3" />
+     fill="#666666" />
   <path
      d="m 8.0055438,5.0068431 c 2.0363402,0 2.8957002,0.1635305 4.4623932,1.3315441 L 8.0055438,11.246786 C 8.0044168,11.253276 3.5431502,6.3383872 3.5431502,6.3383872 5.1107474,5.1703736 5.9692042,5.0068431 8.0055438,5.0068431 Z"
      overflow="visible"
      style="display:inline;fill:#33a4ff;fill-opacity:1;fill-rule:nonzero;stroke-width:0.937662;stroke-dasharray:none;marker:none"
      id="path335"
      fill="#666666"
-     sodipodi:nodetypes="zcccz"
      clip-path="url(#clipPath1715)"
-     inkscape:path-effect="#path-effect3156"
-     inkscape:original-d="m 8.0055438,5.0068431 c 2.0363402,0 2.8957002,0.1635305 4.4623932,1.3315441 L 8.0055438,11.246786 C 8.0044168,11.253276 3.5431502,6.3383872 3.5431502,6.3383872 5.1107474,5.1703736 5.9692042,5.0068431 8.0055438,5.0068431 Z"
      transform="matrix(1.0666921,0,0,1.0662749,-0.5394503,-0.9384632)" />
 </svg>
