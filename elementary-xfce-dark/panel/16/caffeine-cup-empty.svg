@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="svg2816"
+   height="16"
+   width="16"
+   version="1.0"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3199">
+    <linearGradient
+       id="linearGradient4">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop3" />
+      <stop
+         style="stop-color:#e6e6e6;stop-opacity:1;"
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#e6e6e6;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       xlink:href="#linearGradient4"
+       id="linearGradient5021"
+       x1="12"
+       y1="2"
+       x2="12"
+       y2="21"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       xlink:href="#linearGradient2"
+       id="linearGradient3"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-0.94073972,1.2149838)"
+       x1="11.498688"
+       y1="1.9181269"
+       x2="11.531934"
+       y2="20.107613" />
+  </defs>
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4166"
+     transform="matrix(0.82305591,0,0,0.82305591,-1.6886311,-1.5844473)"
+     style="stroke-width:1.21498">
+    <g
+       id="g4999"
+       style="stroke-width:1.21498">
+      <g
+         id="g5015"
+         style="fill:url(#linearGradient5021);stroke-width:1.21498">
+        <path
+           style="opacity:1;fill:url(#linearGradient3);fill-opacity:1;stroke:none;stroke-width:1.21498"
+           d="M 2.0592603,9.2149843 C 2.0000003,14.214985 2.0788803,21.214984 10.5,21.214984 c 8.421115,0 8.55926,-7.999999 8.55926,-7.999999 l 0.0022,-0.357199 h 1.933782 c 0.277001,0 0.5,-0.216987 0.5,-0.5 v -1.418784 c 0,-0.283014 -0.222999,-0.5 -0.5,-0.5 h -1.935963 c 0.03386,-0.877366 0,-1.2240177 0,-1.2240177 z"
+           id="path2990-5-1" />
+      </g>
+    </g>
+  </g>
+</svg>

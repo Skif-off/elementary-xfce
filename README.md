@@ -1,3 +1,5 @@
+# Fork! An attempt to keep the old look of the icons ([link](https://github.com/Skif-off/elementary-xfce/tree/oldstyle)).
+
 <div>
     <img title="Mail icon" src="https://simon.shimmerproject.org/wp-content/uploads/2018/05/internet-mail.png" />
     <img title="Desktop search icon" src="https://simon.shimmerproject.org/wp-content/uploads/2018/05/catfish.png" />
