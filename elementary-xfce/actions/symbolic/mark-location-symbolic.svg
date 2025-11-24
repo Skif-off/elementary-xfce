@@ -1,6 +1,22 @@
-<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <g transform='translate(-393 -77)'>
-        
-        <path color='#000' d='M401 77a5 5 0 0 0-5 5c0 .345.028.675.094 1 .375 2.84 3.933 4.926 4.938 8.969.985-3.986 4.997-6.918 5-9.969H406a5 5 0 0 0-5-5zm0 2a3 3 0 1 1 0 6 3 3 0 0 1 0-6z' fill='#666' overflow='visible' style='marker:none'/>
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16"
+   width="16"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     transform="translate(-393,-77)"
+     id="g1">
+    <path
+       color="#000000"
+       d="m 401,77 a 5,5 0 0 0 -5,5 c 0,0.345 0.028,0.675 0.094,1 0.375,2.84 3.933,4.926 4.938,8.969 0.985,-3.986 4.997,-6.918 5,-9.969 H 406 a 5,5 0 0 0 -5,-5 z m 0,2 a 3,3 0 1 1 0,6 3,3 0 0 1 0,-6 z"
+       fill="#666666"
+       overflow="visible"
+       style="marker:none"
+       id="path1" />
+  </g>
 </svg>

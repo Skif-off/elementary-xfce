@@ -51,6 +51,7 @@ builddir:
 	rm build/elementary-xfce/README.md && cp README.md build/elementary-xfce
 	mkdir -p build/elementary-xfce-hidpi && cp -R elementary-xfce/. build/elementary-xfce-hidpi
 	mv build/elementary-xfce-hidpi/index-hidpi.theme build/elementary-xfce-hidpi/index.theme
+	rm build/elementary-xfce/index-hidpi.theme
 	rm build/elementary-xfce-hidpi/AUTHORS && cp AUTHORS build/elementary-xfce-hidpi
 	rm build/elementary-xfce-hidpi/CONTRIBUTORS && cp CONTRIBUTORS build/elementary-xfce-hidpi
 	rm build/elementary-xfce-hidpi/LICENSE && cp LICENSE build/elementary-xfce-hidpi

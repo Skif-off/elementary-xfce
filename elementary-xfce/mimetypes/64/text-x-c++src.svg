@@ -1,40 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    width="64"
-   viewBox="0 0 64 64.000282"
+   viewBox="0 0 64 64"
    version="1.0"
    style="display:inline;enable-background:new"
    id="svg11300"
-   height="64.000282"
-   sodipodi:docname="text-x-c++.svg"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   height="64"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <sodipodi:namedview
-     id="namedview40"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     showgrid="false"
-     inkscape:zoom="3.7675367"
-     inkscape:cx="37.557696"
-     inkscape:cy="35.965144"
-     inkscape:window-width="1317"
-     inkscape:window-height="890"
-     inkscape:window-x="593"
-     inkscape:window-y="61"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg11300"
-     showguides="false" />
   <metadata
      id="metadata155">
     <rdf:RDF>
@@ -222,7 +199,7 @@
        id="rect6741-1-8"
        d="m 246.6,206.4998 h -45 v -57.00004 h 45 z" />
     <path
-       style="display:inline;fill:none;stroke:url(#linearGradient3033);stroke-width:0.9999218;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:inline;fill:none;stroke:url(#linearGradient3033);stroke-width:0.999922;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4160-6-1-7"
        d="m 200.59997,148.49968 c 10.77009,0 47.00003,0.004 47.00003,0.004 l 5e-5,58.99622 h -47.00008 v -58.99997 z" />
   </g>
@@ -237,8 +214,7 @@
     <path
        style="fill:#499df0;fill-opacity:1;stroke:none;stroke-width:10.2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 270.93378,122.40006 v 30.6 h -30.6 v 30.6 h 30.6 v 30.6 h 30.60001 v -30.6 h 30.6 v -30.6 h -30.6 v -30.6 z"
-       id="path13430"
-       sodipodi:nodetypes="ccccccccccccc" />
+       id="path13430" />
   </g>
   <g
      id="g21108"
@@ -247,7 +223,6 @@
     <path
        style="fill:#499df0;fill-opacity:1;stroke:none;stroke-width:10.2px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 270.93378,132.60006 v 30.6 h -30.6 v 30.6 h 30.6 v 30.6 h 30.60001 v -30.6 h 30.6 v -30.6 h -30.6 v -30.6 z"
-       id="path21106"
-       sodipodi:nodetypes="ccccccccccccc" />
+       id="path21106" />
   </g>
 </svg>

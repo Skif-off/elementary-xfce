@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    id="svg8728"
-   height="22.000000px"
-   width="22.000000px"
-   version="1.1">
+   height="22"
+   width="22"
+   version="1.1"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs3">
     <linearGradient
@@ -40,7 +40,7 @@
        x2="37.746555"
        y1="23.992306"
        x1="23.598076"
-       gradientTransform="matrix(0.363308,0,0,0.363571,1.976073,1.180651)"
+       gradientTransform="matrix(0.36357954,0,0,0.36394762,1.9756784,1.1792763)"
        id="linearGradient13217"
        xlink:href="#linearGradient6581" />
     <radialGradient
@@ -51,7 +51,7 @@
        fx="2.25"
        fy="16"
        r="16.875"
-       gradientTransform="matrix(1,0,0,0.333333,-2.397387e-15,10.66667)"
+       gradientTransform="matrix(0.47407407,0,0,0.11633788,9.4373445,15.809676)"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
@@ -97,27 +97,27 @@
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1">
+     id="layer1"
+     transform="translate(-0.00401127,-0.00766087)">
     <path
-       style="opacity:0.71111111;color:#000000;fill:url(#radialGradient3947);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;marker:none;marker-start:none;marker-mid:none;marker-end:none;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;visibility:visible;display:block;overflow:visible"
+       style="color:#000000;display:block;overflow:visible;visibility:visible;opacity:0.711111;fill:url(#radialGradient3947);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.409255;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;marker-start:none;marker-mid:none;marker-end:none"
        id="path2193"
-       d="M 19.125 16 A 16.875 5.625 0 1 1  -14.625,16 A 16.875 5.625 0 1 1  19.125 16 z"
-       transform="matrix(0.479894,0,0,0.349014,9.272996,12.09042)" />
+       d="m 18.504011,17.671083 a 8,1.9632037 0 1 1 -15.9999997,0 8,1.9632037 0 1 1 15.9999997,0 z" />
     <rect
        ry="0"
        rx="0"
        y="2.5076609"
        x="2.5040112"
-       height="15.983442"
-       width="15.98805"
+       height="16"
+       width="16"
        id="rect8738"
-       style="fill:url(#linearGradient13217);fill-opacity:1;fill-rule:nonzero;stroke:#888a85;stroke-width:0.99999976;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="fill:url(#linearGradient13217);fill-opacity:1;fill-rule:nonzero;stroke:#888a85;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
-       y="3.5005584"
-       x="3.4966872"
-       height="14.005191"
-       width="14.107364"
+       y="3.5076609"
+       x="3.5040112"
+       height="14"
+       width="14"
        id="rect11103"
-       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#fdfdfb;stroke-width:1.00000012;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#fdfdfb;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
 </svg>

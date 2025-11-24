@@ -1,6 +1,22 @@
-<svg height='16' width='16' xmlns='http://www.w3.org/2000/svg'>
-    <g color='#bebebe' transform='translate(-373 91)'>
-        <path d='M378-89c-2.77 0-5 2.23-5 5s2.23 5 5 5h3.344L384-76v-3c2.77 0 5-2.23 5-5s-2.23-5-5-5zm4 2l-.02 2H384v2h-4v-4z' fill='#666' overflow='visible' style='marker:none'/>
-        
-    </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="16"
+   width="16"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     color="#bebebe"
+     transform="translate(-373,91)"
+     id="g1">
+    <path
+       d="m 378,-89 c -2.77,0 -5,2.23 -5,5 0,2.77 2.23,5 5,5 h 3.344 l 2.656,3 v -3 c 2.77,0 5,-2.23 5,-5 0,-2.77 -2.23,-5 -5,-5 z m 4,2 -0.02,2 H 384 v 2 h -4 v -4 z"
+       fill="#666666"
+       overflow="visible"
+       style="marker:none"
+       id="path1" />
+  </g>
 </svg>
