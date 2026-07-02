@@ -8,12 +8,8 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs1" />
-  <g
-     transform="translate(-633,-137)"
-     id="g1">
-    <path
-       d="m 640,139 v 1 l 0.945,-0.005 L 639.14,149 H 638 v 1 h 4 v -1 h -0.86 l 1.804,-9.005 L 644,140 v -1 z"
-       fill="#666666"
-       id="path1" />
-  </g>
+  <path
+     d="M 7,2 V 3 L 7.945,2.995 6.14,12 H 5 v 1 H 9 V 12 H 8.14 L 9.944,2.995 11,3 V 2 Z"
+     fill="#666666"
+     id="path1" />
 </svg>

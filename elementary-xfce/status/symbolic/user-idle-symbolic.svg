@@ -8,16 +8,11 @@
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs1" />
-  <g
-     color="#bebebe"
-     transform="translate(-313,91)"
-     id="g1">
-    <path
-       d="m 318,-89 c -2.77,0 -5,2.23 -5,5 0,2.77 2.23,5 5,5 h 3.344 l 2.656,3 v -3 c 2.77,0 5,-2.23 5,-5 0,-2.77 -2.23,-5 -5,-5 z"
-       fill="#666666"
-       opacity="0.35"
-       overflow="visible"
-       style="marker:none"
-       id="path1" />
-  </g>
+  <path
+     d="M 5,2 C 2.23,2 0,4.23 0,7 0,9.77 2.23,12 5,12 H 8.344 L 11,15 v -3 c 2.77,0 5,-2.23 5,-5 0,-2.77 -2.23,-5 -5,-5 z"
+     fill="#666666"
+     opacity="0.35"
+     overflow="visible"
+     style="color:#bebebe;marker:none"
+     id="path1" />
 </svg>

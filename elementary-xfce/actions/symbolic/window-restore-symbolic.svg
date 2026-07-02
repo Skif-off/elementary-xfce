@@ -22,17 +22,12 @@
   </metadata>
   <defs
      id="defs7386" />
-  <g
-     id="layer12"
-     style="display:inline"
-     transform="translate(-333.0004,-188)">
-    <path
-       d="m 347.0004,196 -2.25,-2.22321 1.71429,-1.71429 c 0.0129,-0.0129 0.0147,-0.0134 0.0268,-0.0268 0.38059,-0.42058 0.37876,-1.06767 -0.0268,-1.47321 -0.40535,-0.40535 -1.05263,-0.43359 -1.47322,-0.0536 l -0.21428,0.21428 -1.55358,1.52679 -2.22321,-2.25 0,6 z"
-       id="path2987-5"
-       style="color:#bebebe;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-    <path
-       d="m 341.0004,202 0,-6 -6,0 2.25,2.25 -1.71429,1.71429 c -0.0129,0.0129 -0.0147,0.0134 -0.0268,0.0268 -0.38058,0.42057 -0.37875,1.06766 0.0268,1.47321 0.40535,0.40534 1.07941,0.43358 1.5,0.0536 l 0.1875,-0.21429 1.55358,-1.55357 z"
-       id="path3288-51-5-6"
-       style="color:#bebebe;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
-  </g>
+  <path
+     d="M 14,8 11.75,5.77679 13.46429,4.0625 c 0.0129,-0.0129 0.0147,-0.0134 0.0268,-0.0268 C 13.87168,3.61512 13.86985,2.96803 13.46429,2.56249 13.05894,2.15714 12.41166,2.1289 11.99107,2.50889 L 11.77679,2.72317 10.22321,4.24996 8,1.99996 v 6 z"
+     id="path2987-5"
+     style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+  <path
+     d="M 8,14 V 8 H 2 l 2.25,2.25 -1.71429,1.71429 c -0.0129,0.0129 -0.0147,0.0134 -0.0268,0.0268 -0.38058,0.42057 -0.37875,1.06766 0.0268,1.47321 0.40535,0.40534 1.07941,0.43358 1.5,0.0536 l 0.1875,-0.21429 1.55358,-1.55357 z"
+     id="path3288-51-5-6"
+     style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#666666;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
 </svg>
